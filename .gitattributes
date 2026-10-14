@@ -1,0 +1,3 @@
+/DragNWash_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+/DragNWash_Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
+/DragNWash_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
